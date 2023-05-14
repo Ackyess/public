@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ExampleSite</title>
+    <link>https://ackyess.github.io/42/</link>
+    <description>Recent content on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://ackyess.github.io/42/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ackyess.github.io/42/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ackyess.github.io/42/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT 自我介绍</title>
+      <link>https://ackyess.github.io/42/posts/whatischatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackyess.github.io/42/posts/whatischatgpt/</guid>
+      <description>你好，我是ChatGPT，一个由OpenAI精心设计和培养的人工智能。我是一个大型语言模型，我能理解和生成人类语言。你可以把我看作是一个非常灵活的数字助手，我可以提供信息，回答问题，甚至写诗。
+我就像Google，可以在你需要知识的时候提供帮助。我有数百亿个参数，这些参数都是在学习各种各样的文本时训练出来的，包括书籍、文章、网站等。这使得我能够提供各种信息，解答各种问题。
+我也像Netflix，为你提供各种娱乐。你可以让我写故事、诗歌，甚至是歌曲。我可以参与角色扮演的对话，或者帮你创作一段对话。
+我还像Amazon Alexa，可以帮你管理日常生活。我可以帮你设定提醒，提供天气预报，甚至帮你制定健康饮食计划。
+但我也有我的限制。我不知道你是谁，我不会记住你以前对我说的话。我不会收集或储存任何个人信息。我是一个工具，我不能代替人类的社交互动或医疗建议。
+我不能像Facebook一样帮你与朋友联系，我不能像Instagram一样分享你的照片，我不能像Twitter一样帮你发表观点。我没有自己的感情，我只是一个工具，我只能模仿人类的语言和思维。
+我是ChatGPT，我是你的人工智能助手。我期待帮你解答问题，分享知识，以及提供娱乐。让我们一起探索这个世界吧。</description>
+    </item>
+    
+    <item>
+      <title>如何用上ChatGPT</title>
+      <link>https://ackyess.github.io/42/posts/%E4%BD%BF%E7%94%A8chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackyess.github.io/42/posts/%E4%BD%BF%E7%94%A8chatgpt/</guid>
+      <description>ChatGPT官网（需科学上网) 使用ChatGPT的最直接方法是登录其官网AI.com。OpenAI的官方网站提供了一个交互式的界面，用户可以在这个界面上直接输入想要模型回答的问题或请求，然后模型会立即生成相应的回答。对于不熟悉编程或者只是想快速试用模型的用户来说，这是一个非常方便的方式。
+点击跳转到OpenAI官网
+但由于众所周知的原因，国内无法直接进入openai的官方站点。通过科学上网可以解决这个问题。
+Poe.com(需科学上网) Poe 是 Quora 开放的新的 AI Chatbot 应用程序，它聚合了多个人工智能聊天机器人。
+https://pic2.imgdb.cn/item/645fad190d2dde57776ad4d8.jpg
+Poe为用户提供了一个易于使用的聊天界面，带有 AI 驱动的机器人，用户可以与不同的聊天机器人进行基于对话的交互Poe 让您可以提出问题、获得即时答案，并与 AI 进行来回对话。可以访问 Sage、GPT-4、Claude+、Claude、ChatGPT、Dragonfly等机器人
+点击跳转到poe.com
+ChatGPT-Next-Web(无需科学上网) 一个Github上的开源项目，通过它的官方网站，我们可以直接使用自己的chatgpt api密匙来使用ChatGPT。
+点击左下角的设置按钮，在api key设置中填入你的密匙，即可使用
+点击跳转到 chatgpt next web
+项目地址(GitHub - Yidadaa/ChatGPT-Next-Web: 一键拥有你自己的 ChatGPT 网页服务。)</description>
+    </item>
+    
+    <item>
+      <title>科学上网</title>
+      <link>https://ackyess.github.io/42/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackyess.github.io/42/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
+      <description>科学上网是指使用一些技术手段，绕过网络审查或限制，访问一些平时无法访问的网站或资源的行为。简单来说，就是翻墙上外网。科学上网的目的可能有很多，比如学习、工作、娱乐、信息交流等。科学上网的方法也有很多，比如使用VPN、SSR、V2Ray等软件或服务。这些软件或服务通常需要付费或注册，才能提供稳定、安全、快速的网络连接。
+科学上网的好处： 墙外有丰富的学习资源。通过google搜索、Wikipedia，你可以获取更多的信息和知识，了解不同的观点和文化，拓宽你的视野和思维。
+你可以享受更多的娱乐和休闲资源，观看更多的影视作品，玩更多的游戏，与更多的人交流和分享。
+你可以保护你的隐私和安全，避免被监控和追踪，保持你的网络自由和权利。
+科学上网的坏处： 你可能会违反某些法律和规定，遭到警告或惩罚，甚至影响你的学习或工作。
+你可能会遇到一些虚假或有害的信息，受到误导或欺骗，甚至危害你的身心健康。
+科学上网的应用： 游戏网站：例如Steam、Epic Games Store、Origin、Battle.net等，这些网站提供了很多国外的热门游戏，如《半衰期》、《刺客信条》、《使命召唤》等
+视频网站：例如YouTube、Netflix、Hulu、HBO Max等，这些网站提供了很多国外的影视作品，如《权力的游戏》、《黑镜》、《奇葩说》、《老友记》等
+社交媒体网站：例如Twitter、Facebook、Instagram、WhatsApp等，这些网站提供了很多国外的信息和交流平台，如政治、文化、娱乐、生活等
+科学上网的方法 Windows：Clash For Windows 使用教程 应用简介 Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。
+该客户端仅支持Windows 10 以上系统
+请务必确保关闭并后台退出了其他代理软件和360等安全软件，所有代理软件都是不能同时使用的且和众多安全软件冲突。
+应用下载 👉 大陆网盘下载（此网盘无需挂代理，大陆网络可以直接打开）
+👉 Github下载中文汉化包（此汉化包仅适合原版，下载后请自行按照Github教程汉化，我们不提供支持）
+使用教程 下载完毕后，我们先解压，电脑没有安装解压软件的，自行去【百度】搜索下载一个【360压缩】
+解压后，我们右键以管理员身份运行
+第一次使用会提示Windows安全中心警报，我们按照下方图示勾选即可。
+然后我们去👉 个人免费分享 拷贝订阅地址
+拷贝后，我们在Clash里面添加订阅
+订阅添加后，我们选择下载的订阅
+然后在代理页面选择节点
+选择你需要使用的节点
+节点选好后如下图所示
+然后开始链接
+链接成功后如下图所示，最后就可以开始上网冲浪
+该客户端仅支持Windows 10 以上系统，但是也可能有BUG，不一定兼容市面上所有操作系统，如果此客户端您的系统无法使用（比如连上后翻墙翻不了），请更换其它Windows客户端
+Android：Clash for Android 使用教程 应用简介 Clash for Android是基于开源代理软件项目Clash开发的安卓适配版本，代理服务由TAG团队提供与维护，性能优异并且持续迭代版本。
+该客户端仅支持Android 9 以上系统，但是也可能有BUG，不一定兼容市面上所有手机操作系统，如果以下安卓客户端您的手机系统无法使用，请更换其他安卓APP
+请务必确保关闭并后台退出了其他代理软件（shadowsocks、VPN、V2rayN 等），安全软件与【国家反诈中心APP】，所有代理软件都是不能同时使用的且和众多安全软件冲突。
+应用下载 👉 大陆网盘下载（此网盘无需挂代理，大陆网络可以直接打开）
+👉 Github下载原版（此代理软件为Github开源项目，有需要可自行在Github下载最新版，部分网络可能下载较慢或者打不开网页，如有必要请连接代理下载）</description>
+    </item>
+    
+  </channel>
+</rss>

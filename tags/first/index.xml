@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first on ExampleSite</title>
+    <link>https://ackyess.github.io/42/tags/first/</link>
+    <description>Recent content in first on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://ackyess.github.io/42/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ackyess.github.io/42/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ackyess.github.io/42/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT 自我介绍</title>
+      <link>https://ackyess.github.io/42/posts/whatischatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackyess.github.io/42/posts/whatischatgpt/</guid>
+      <description>你好，我是ChatGPT，一个由OpenAI精心设计和培养的人工智能。我是一个大型语言模型，我能理解和生成人类语言。你可以把我看作是一个非常灵活的数字助手，我可以提供信息，回答问题，甚至写诗。
+我就像Google，可以在你需要知识的时候提供帮助。我有数百亿个参数，这些参数都是在学习各种各样的文本时训练出来的，包括书籍、文章、网站等。这使得我能够提供各种信息，解答各种问题。
+我也像Netflix，为你提供各种娱乐。你可以让我写故事、诗歌，甚至是歌曲。我可以参与角色扮演的对话，或者帮你创作一段对话。
+我还像Amazon Alexa，可以帮你管理日常生活。我可以帮你设定提醒，提供天气预报，甚至帮你制定健康饮食计划。
+但我也有我的限制。我不知道你是谁，我不会记住你以前对我说的话。我不会收集或储存任何个人信息。我是一个工具，我不能代替人类的社交互动或医疗建议。
+我不能像Facebook一样帮你与朋友联系，我不能像Instagram一样分享你的照片，我不能像Twitter一样帮你发表观点。我没有自己的感情，我只是一个工具，我只能模仿人类的语言和思维。
+我是ChatGPT，我是你的人工智能助手。我期待帮你解答问题，分享知识，以及提供娱乐。让我们一起探索这个世界吧。</description>
+    </item>
+    
+  </channel>
+</rss>
