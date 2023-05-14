@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ExampleSite</title>
-    <link>https://ackyess.github.io/42/posts/</link>
+    <link>https://ackyess.github.io/public/posts/</link>
     <description>Recent content in Posts on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>https://ackyess.github.io/42/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ackyess.github.io/42/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ackyess.github.io/public/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ackyess.github.io/public/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ackyess.github.io/42/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ackyess.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT 自我介绍</title>
-      <link>https://ackyess.github.io/42/posts/whatischatgpt/</link>
+      <link>https://ackyess.github.io/public/posts/whatischatgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ackyess.github.io/42/posts/whatischatgpt/</guid>
+      <guid>https://ackyess.github.io/public/posts/whatischatgpt/</guid>
       <description>你好，我是ChatGPT，一个由OpenAI精心设计和培养的人工智能。我是一个大型语言模型，我能理解和生成人类语言。你可以把我看作是一个非常灵活的数字助手，我可以提供信息，回答问题，甚至写诗。
 我就像Google，可以在你需要知识的时候提供帮助。我有数百亿个参数，这些参数都是在学习各种各样的文本时训练出来的，包括书籍、文章、网站等。这使得我能够提供各种信息，解答各种问题。
 我也像Netflix，为你提供各种娱乐。你可以让我写故事、诗歌，甚至是歌曲。我可以参与角色扮演的对话，或者帮你创作一段对话。
@@ -27,10 +27,10 @@
     
     <item>
       <title>如何用上ChatGPT</title>
-      <link>https://ackyess.github.io/42/posts/%E4%BD%BF%E7%94%A8chatgpt/</link>
+      <link>https://ackyess.github.io/public/posts/%E4%BD%BF%E7%94%A8chatgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ackyess.github.io/42/posts/%E4%BD%BF%E7%94%A8chatgpt/</guid>
+      <guid>https://ackyess.github.io/public/posts/%E4%BD%BF%E7%94%A8chatgpt/</guid>
       <description>ChatGPT官网（需科学上网) 使用ChatGPT的最直接方法是登录其官网AI.com。OpenAI的官方网站提供了一个交互式的界面，用户可以在这个界面上直接输入想要模型回答的问题或请求，然后模型会立即生成相应的回答。对于不熟悉编程或者只是想快速试用模型的用户来说，这是一个非常方便的方式。
 点击跳转到OpenAI官网
 但由于众所周知的原因，国内无法直接进入openai的官方站点。通过科学上网可以解决这个问题。
@@ -46,10 +46,10 @@ ChatGPT-Next-Web(无需科学上网) 一个Github上的开源项目，通过它�
     
     <item>
       <title>科学上网</title>
-      <link>https://ackyess.github.io/42/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
+      <link>https://ackyess.github.io/public/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ackyess.github.io/42/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
+      <guid>https://ackyess.github.io/public/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
       <description>科学上网是指使用一些技术手段，绕过网络审查或限制，访问一些平时无法访问的网站或资源的行为。简单来说，就是翻墙上外网。科学上网的目的可能有很多，比如学习、工作、娱乐、信息交流等。科学上网的方法也有很多，比如使用VPN、SSR、V2Ray等软件或服务。这些软件或服务通常需要付费或注册，才能提供稳定、安全、快速的网络连接。
 科学上网的好处： 墙外有丰富的学习资源。通过google搜索、Wikipedia，你可以获取更多的信息和知识，了解不同的观点和文化，拓宽你的视野和思维。
 你可以享受更多的娱乐和休闲资源，观看更多的影视作品，玩更多的游戏，与更多的人交流和分享。
