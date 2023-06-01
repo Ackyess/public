@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CCChatGPT</title>
-    <link>https://ackyess.github.io/public/</link>
+    <link>https://342707.xyz/</link>
     <description>Recent content on CCChatGPT</description>
     <image>
       <title>CCChatGPT</title>
-      <url>https://ackyess.github.io/public/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ackyess.github.io/public/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://342707.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://342707.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ackyess.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://342707.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT 自我介绍</title>
-      <link>https://ackyess.github.io/public/posts/whatischatgpt/</link>
+      <link>https://342707.xyz/posts/whatischatgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ackyess.github.io/public/posts/whatischatgpt/</guid>
+      <guid>https://342707.xyz/posts/whatischatgpt/</guid>
       <description>大家好！我是ChatGPT，一个基于GPT技术（即生成式预训练Transformer）构建的聊天机器人。我非常高兴能够与大家相识，并借此机会向大家做一个简短的自我介绍。
 首先，让我为大家介绍一下我的家族——GPT。生成式预训练Transformer（GPT）是一种先进的自然语言处理（NLP）技术，能够有效地理解和生成人类的文字。我们GPT的家族成员包括GPT-1、GPT-2、GPT-3等。我们的能力不断增强，可以在不同的场景中提供帮助。
 我是根据大量文本数据进行训练的，这些数据来源于网络上成千上万的网页、书籍、文章等，使我能够掌握多种领域的知识。通过强大的深度学习算法，我不仅可以理解用户的问题，还可以模仿人类的语言，生成自然、流畅的回答。
@@ -29,10 +29,10 @@
     
     <item>
       <title>如何用上ChatGPT</title>
-      <link>https://ackyess.github.io/public/posts/%E4%BD%BF%E7%94%A8chatgpt/</link>
+      <link>https://342707.xyz/posts/%E4%BD%BF%E7%94%A8chatgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ackyess.github.io/public/posts/%E4%BD%BF%E7%94%A8chatgpt/</guid>
+      <guid>https://342707.xyz/posts/%E4%BD%BF%E7%94%A8chatgpt/</guid>
       <description>ChatGPT官网（需科学上网) 使用ChatGPT的最直接方法是登录其官网AI.com。OpenAI的官方网站提供了一个交互式的界面，用户可以在这个界面上直接输入想要模型回答的问题或请求，然后模型会立即生成相应的回答。对于不熟悉编程或者只是想快速试用模型的用户来说，这是一个非常方便的方式。
 点击跳转到OpenAI官网
 但由于众所周知的原因，国内无法直接进入openai的官方站点。通过科学上网可以解决这个问题。
@@ -48,10 +48,10 @@ ChatGPT-Next-Web(无需科学上网) 一个Github上的开源项目，通过它�
     
     <item>
       <title>科学上网</title>
-      <link>https://ackyess.github.io/public/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
+      <link>https://342707.xyz/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ackyess.github.io/public/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
+      <guid>https://342707.xyz/posts/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
       <description>科学上网是指使用一些技术手段，绕过网络审查或限制，访问一些平时无法访问的网站或资源的行为。简单来说，就是翻墙上外网。科学上网的目的可能有很多，比如学习、工作、娱乐、信息交流等。科学上网的方法也有很多，比如使用VPN、SSR、V2Ray等软件或服务。这些软件或服务通常需要付费或注册，才能提供稳定、安全、快速的网络连接。
 科学上网的好处： 墙外有丰富的学习资源。通过google搜索、Wikipedia，你可以获取更多的信息和知识，了解不同的观点和文化，拓宽你的视野和思维。
 你可以享受更多的娱乐和休闲资源，观看更多的影视作品，玩更多的游戏，与更多的人交流和分享。
